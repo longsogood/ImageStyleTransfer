@@ -1,6 +1,6 @@
 # Ứng dụng Image-to-Image Style Transfer sử dụng Pix2Pix GAN
 
-Đề tài đồ án liên ngành xây dựng một ứng dụng Image-to-Image Style Transfer sử dụng mô hình Pix2Pix GAN.
+Xây dựng ứng dụng Image-to-Image Style Transfer sử dụng mô hình Pix2Pix GAN.
 
 ## Mục đích
 - Xây dựng một ứng dụng có khả năng chuyển đổi ảnh từ đen trắng sang màu sử dụng mô hình Pix2Pix GAN.
